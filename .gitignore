@@ -1,0 +1,24 @@
+# UAM4dTrafficFlow — the full source code is released only after acceptance of
+# the paper "Multiclass 4D Continuum model and solver for Urban Air Mobility
+# Traffic Flow with obstacle awareness" (2027 IEEE IV).
+#
+# Until acceptance, ONLY README.md and figs/ are tracked.  To release the code,
+# delete the three lines under the "not yet released" marker below.
+
+# --- not yet released (delete these on paper acceptance) ---
+src/
+pyproject.toml
+LICENSE
+
+# --- always ignored ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+.DS_Store
+.idea/
+.vscode/
