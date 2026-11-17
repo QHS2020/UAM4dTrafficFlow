@@ -3,10 +3,11 @@
 # Traffic Flow with obstacle awareness" (2027 IEEE IV).
 #
 # Until acceptance, ONLY README.md and figs/ are tracked.  To release the code,
-# delete the three lines under the "not yet released" marker below.
+# delete the lines under the "not yet released" marker below.
 
 # --- not yet released (delete these on paper acceptance) ---
 src/
+plugin/
 pyproject.toml
 LICENSE
 
